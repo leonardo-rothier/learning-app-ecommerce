@@ -8,7 +8,7 @@
         <title>Kodekloud E-Commerce</title>
 
         <!-- Favicon -->
-        <link rel="icon" href="img/favicon.png" type="image/png" />
+        <link rel="icon" href="img/funny-logo.png" type="image/png" />
         <!-- Bootstrap CSS -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <!-- Icon CSS-->
@@ -55,8 +55,8 @@
                             <span class="icon-bar"></span>
                             </button>
                             <a class="navbar-brand" href="index.html">
-                                <img src="img/logo.png" alt="">
-                                <img src="img/logo-2.png" alt="">
+                                <img src="img/funny-logo.png" alt="">
+
                             </a>
                         </div>
                     </div>
