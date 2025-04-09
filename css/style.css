@@ -108,6 +108,12 @@ ul {
   padding: 0px;
 }
 
+.logo-funny img{
+  width: 100px;
+  height: 100px;
+  margin-top: -30px;
+  margin-left: 50px;
+}
 /* End Prefix Styles css
 ============================================================================================ */
 /* Check_tittle

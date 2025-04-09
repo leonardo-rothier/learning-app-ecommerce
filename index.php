@@ -55,8 +55,9 @@
                             <span class="icon-bar"></span>
                             </button>
                             <a class="navbar-brand" href="index.html">
-                                <img src="img/funny-logo.png" alt="">
-
+                                <div class="logo-funny">
+                                        <img src="img/funny-logo.png" alt="" >
+                                </div>
                             </a>
                         </div>
                     </div>
